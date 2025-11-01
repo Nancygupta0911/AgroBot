@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="auth-card">
+  <h2>Your profile</h2>
+  <form method="post">
+    <!-- Name -->
+    <div class="field">
+      <label for="name">Name</label>
+      <input id="name" name="name" value="{{ current_user.name or '' }}">
+    </div>
+
+    <!-- Primary crop -->
+    <div class="field">
+      <label for="primary_crop">Primary crop</label>
+      <input id="primary_crop" name="primary_crop" value="{{ current_user.primary_crop or '' }}">
+    </div>
+
+    <!-- Region -->
+    <div class="field">
+      <label for="region">Region</label>
+      <input id="region" name="region" value="{{ current_user.region or '' }}">
+    </div>
+
+    <!-- Preferred language -->
+    <div class="field">
+      <label for="preferred_language">Preferred language</label>
+      <select id="preferred_language" name="preferred_language">
+        <option value="en" {% if current_user.preferred_language == 'en' %}selected{% endif %}>English</option>
+        <option value="hi" {% if current_user.preferred_language == 'hi' %}selected{% endif %}>Hindi</option>
+        <option value="ta" {% if current_user.preferred_language == 'ta' %}selected{% endif %}>Tamil</option>
+        <option value="fr" {% if current_user.preferred_language == 'fr' %}selected{% endif %}>French</option>
+        <option value="es" {% if current_user.preferred_language == 'es' %}selected{% endif %}>Spanish</option>
+      </select>
+    </div>
+
+    <div class="actions">
+      <button class="btn" type="submit">Save</button>
+    </div>
+  </form>
+</div>
+{% endblock %}
