@@ -127,3 +127,12 @@ Now open your browser and visit:
 👉 http://127.0.0.1:5000
 ---
 
+### 🧑‍💻 Developed By
+
+Nancy Gupta
+
+📧 Email: nancygupta0911@gmail.com
+
+🌐 GitHub: Nancygupta0911
+
+
