@@ -88,13 +88,6 @@ AgroBot/
 ```
 ---
 
-### 📸 Screenshots
-[Register]<img width="1900" height="926" alt="Screenshot 2025-11-01 144159" src="https://github.com/user-attachments/assets/c74a51c4-a963-43cb-9cd7-65a811a7beb2" />
-[login]<img width="1887" height="923" alt="Screenshot 2025-11-01 144221" src="https://github.com/user-attachments/assets/8df8646d-b562-4cd3-b8c7-76513be20f16" />
-<img width="1903" height="922" alt="Screenshot 2025-11-01 144251" src="https://github.com/user-attachments/assets/53be7a59-dba2-4aca-bfff-1b4dc6a8e515" />
-[Your profile]<img width="1879" height="899" alt="Screenshot 2025-11-01 144341" src="https://github.com/user-attachments/assets/c51bd513-44a7-4427-9426-f3fd04116132" />
-[Upload Image]<img width="1882" height="917" alt="Screenshot 2025-11-01 144431" src="https://github.com/user-attachments/assets/350ab400-3a9e-4e5f-af68-1c92503af516" />
-[Image Analysis ]<img width="1882" height="910" alt="Screenshot 2025-11-01 144451" src="https://github.com/user-attachments/assets/b9d9fdd1-8782-4dc8-98f5-38aa46e50c1c" />
 
 
 
