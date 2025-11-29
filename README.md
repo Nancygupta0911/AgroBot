@@ -44,7 +44,8 @@ Built with **Flask**, **Python**, and **Machine Learning**, AgroBot supports **t
 | **ML Models** | TensorFlow / PyTorch for image recognition |
 
 ---
-
+### LIVE DEMO
+[Click Here](https://ai-agrbot.onrender.com/)
 
 ### 🧩 Folder Structure
 ```
@@ -116,8 +117,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-#LIVE DEMO 
-[Click Here](https://ai-agrbot.onrender.com/)
+
 ---
 
 ### 🧑‍💻 Developed By
